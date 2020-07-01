@@ -1,3 +1,8 @@
+/*Design and inspired by Mindblister copyright 2019: https://www.figma.com/file/YMLK4BwcowltWe0ZyLgOyrOp/Hunger---Website-Template?node-id=16%3A48
+
+Using: Brackets, google search :)*/
+
+
 html {
     margin: 0px;
     padding: 0px;
@@ -241,16 +246,9 @@ a:visited {
 }
 
 .our-team {
+    display: block;
+    font-weight: bold;
+    letter-spacing: 0.5rem;
     text-align: center;
+    padding: 2% 0 0 0;
 }
-
-
-
-
-
-
-
-
-
-
-
